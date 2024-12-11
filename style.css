@@ -1,0 +1,30 @@
+html, body {
+    margin: 0;
+}
+
+header {
+    background: url(img/background.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 30%;
+    text-align: center;
+}
+ 
+#header_sec {
+    padding-top: 150px;
+    font-size: 21px;
+    font-weight: 900;
+    color: aqua;
+
+}
+
+#artcl1 {
+    width: 80%;
+    margin: auto;
+    height: 1000px;
+    background-color: gray;
+    border-radius: 10px;
+    
+}
